@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mannu Yadav</h1>
 <h3 align="center">Dedicated and innovative coder with a passion for pushing boundaries and exceeding expectations. Known for a strong work ethic, I consistently go above and beyond to deliver exceptional results.</h3>
-(img align="right" alt="Coding" width="400" src="[https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw0WQBaiZPMtzyROLgXB6MHQ&ust=1714765834974000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD9_-Pe74UDFQAAAAAdAAAAABAE](https://www.deviantart.com/pixeljeff/art/Coding-990517671)")
+(img align="right" alt="Coding" width="400" src="[[https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw0WQBaiZPMtzyROLgXB6MHQ&ust=1714765834974000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD9_-Pe74UDFQAAAAAdAAAAABAE](https://www.deviantart.com/pixeljeff/art/Coding-990517671)](https://github.com/rudrabarad/Gifs)")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
