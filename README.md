@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mannu Yadav</h1>
 <h3 align="center">Dedicated and innovative coder with a passion for pushing boundaries and exceeding expectations. Known for a strong work ethic, I consistently go above and beyond to deliver exceptional results.</h3>
-<img src="[https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw0WQBaiZPMtzyROLgXB6MHQ&ust=1714765834974000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD9_-Pe74UDFQAAAAAdAAAAABAE](https://github.com/rudrabarad/Gifs)" align="right" alt="Coding" width="400">
+<img src="[[https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw0WQBaiZPMtzyROLgXB6MHQ&ust=1714765834974000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD9_-Pe74UDFQAAAAAdAAAAABAE](https://github.com/rudrabarad/Gifs)](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" align="right" alt="Coding" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
